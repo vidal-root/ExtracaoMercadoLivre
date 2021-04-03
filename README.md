@@ -75,6 +75,6 @@ Para executar o codigo é preciso possuir o python versão >= 3.4
 
 
 
-### 🛠 Ola
+### 🛠 ola
 
 As seguintes ferramentas foram usadas na construção do projeto:

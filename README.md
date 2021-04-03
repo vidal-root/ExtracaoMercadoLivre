@@ -6,6 +6,7 @@
  <a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> •
  <a href="#autor">Autor</a>
+ <a href="#ola">ola</a>
 </p>
 
 ### 🛠 Tecnologias
@@ -17,3 +18,63 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Pré-requisitos
 Para executar o executavel só é necessario possui uma conexão com a internet
 Para executar o codigo é preciso possuir o python versão >= 3.4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 🛠 Ola
+
+As seguintes ferramentas foram usadas na construção do projeto:
